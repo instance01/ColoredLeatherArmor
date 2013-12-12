@@ -1,0 +1,8 @@
+name: ColoredLeatherArmor
+main: com.comze_instancelabs.coloredleather.Main
+version: 1.0
+author: instancelabs
+commands:
+   coloredleather:
+      description: Spawn a colored leather armor
+      usage: /coloredleather
