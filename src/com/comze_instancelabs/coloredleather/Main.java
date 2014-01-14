@@ -69,7 +69,7 @@ public class Main extends JavaPlugin implements Listener {
 			    		    lam1.setColor(c);
 			    		    lam.setColor(c);	
 	    		    	}else{
-	    		    		sender.sendMessage("§cThe Color code seems to be invalid! Try #FF8899 for example.");
+	    		    		sender.sendMessage("§cThe Color code seems to be invalid! Try #0099FF for example.");
 	    		    	}
 	    		    }else{
 		    		    lam3.setColor(Color.fromRGB(0, 0, 0));
